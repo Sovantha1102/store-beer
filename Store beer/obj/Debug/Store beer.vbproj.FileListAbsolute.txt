@@ -1,0 +1,12 @@
+D:\sovantha .vb\Store beer\Store beer\bin\Debug\Store beer.exe.config
+D:\sovantha .vb\Store beer\Store beer\bin\Debug\Store beer.exe
+D:\sovantha .vb\Store beer\Store beer\bin\Debug\Store beer.pdb
+D:\sovantha .vb\Store beer\Store beer\bin\Debug\Store beer.xml
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store beer.vbprojAssemblyReference.cache
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store_beer.Form1.resources
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store_beer.Resources.resources
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store beer.vbproj.GenerateResource.cache
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store beer.vbproj.CoreCompileInputs.cache
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store beer.exe
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store beer.xml
+D:\sovantha .vb\Store beer\Store beer\obj\Debug\Store beer.pdb
